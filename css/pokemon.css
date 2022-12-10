@@ -23,12 +23,27 @@
 
 
 .botones{
-    list-style: initial;
+    
     margin: 15px auto;
     width: 200px;
     height: 30px;
     border-radius: 10px;
    
+}
+
+.botones1{
+    display: grid;
+    text-align: center;
+}
+
+.botones2{
+    text-align: center;
+
+}
+
+.botones3{
+    display: grid;
+    text-align: center;
 }
 
 
